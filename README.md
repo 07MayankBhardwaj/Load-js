@@ -133,6 +133,21 @@ if (cluster.isPrimary) {
 }
 ```
 
-## License
+## Single core testing :
+1.![image](https://user-images.githubusercontent.com/127011697/234972525-b7f8fdd5-6b93-4140-a1c2-fafd66c9b519.png)
+2.![image](https://user-images.githubusercontent.com/127011697/234972612-dd682d70-3064-472e-9fab-4f424361a08b.png)
+3.![image](https://user-images.githubusercontent.com/127011697/234972682-07a5bf3c-4ce5-4368-9cd5-3ed649210f18.png)
+4.![image](https://user-images.githubusercontent.com/127011697/234972785-c6bfb01e-7d07-4d25-b26d-143d53a91525.png)
 
-This project is licensed under the terms of the MIT license. See the [LICENSE](LICENSE) file for details.
+## Multi-Core testing:
+1.![image](https://user-images.githubusercontent.com/127011697/234972978-4f634b67-5ddb-43c9-9617-fcc031220940.png)
+2.![image](https://user-images.githubusercontent.com/127011697/234973118-9644376a-bb67-4468-a2bb-f50e7ba0a075.png)
+3.![image](https://user-images.githubusercontent.com/127011697/234973218-4bd0c5f7-e27a-4e78-9a2e-4d1f56c969cd.png)
+4.![image](https://user-images.githubusercontent.com/127011697/234973317-56c5b2a9-b2db-46ed-b4f3-f579ec44f6be.png)
+
+
+
+
+
+
+
