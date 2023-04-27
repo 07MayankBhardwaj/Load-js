@@ -2,7 +2,10 @@ const express = require('express');
 const app= express();
 const PORT = process.env.PORT || 5511;
 
-app.get ('/',async (req,res) => {
+    app.use(express.static('public'));
+
+    app.get('/', (req, res) => {
+    res.sendFile(__dirname + '/index.html');
 
     let result =0;
     for (let i=0;i<10000;i++){
